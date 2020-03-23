@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-THIS IS A NEW TEST
+XXXXXXXXXXXXXXXXX NEW TEST XXXXXXXXXXXXXXXXXXXX
 =======
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 *TEST4*
