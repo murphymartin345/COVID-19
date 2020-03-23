@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 THIS IS A NEW TEST
+=======
+# 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
+*TEST4*
+>>>>>>> 629fb89360c0d8a97c32d5680d1059f763f8fee7
 
 This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
